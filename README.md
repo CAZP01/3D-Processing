@@ -8,3 +8,9 @@ Kode Processing ini berisi:
 5. Ped (Move Vertical)
 6. Texture (sand.jpg)
 7. Ray Tracing (Light 6 sisi)
+
+Panduan penggunaan:
+1. Pastikan repository sudah di clone dengan benar
+2. Pastikan file Processing dan pelengkapnya ada di dalam sebuah folder
+3. Nama folder harus sama dengan nama file Processing
+4. Satu folder Processing hanya bisa menyimpan satu file Processing
